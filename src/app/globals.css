@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footerPrincipal{
+    background-color: rgb(0,86,131); 
+    color: white;
+  
+  
+  }
